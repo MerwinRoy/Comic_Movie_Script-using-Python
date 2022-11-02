@@ -1,10 +1,10 @@
-# DSEM--INFO-6105----Python-Comic-Strip-Assignment
-## Data Science Engineering Methods and Tools - Comic Strip Assignment using Python
+#  INFO-6105:Data Science Engineering Methods and Tools
+#  Comic movie script assignment using Python (Jupyter Notebook)
 
 ![Reading comics-amico](https://user-images.githubusercontent.com/46862684/197091516-eece2b4e-86c8-45fc-808b-6cf5673126e1.png)
 
 ## Description
-Created a personalized comic stylized story of my journey using Python (Jupyter notebook).
+Created a personalized comic stylized story of my life's journey using Python (Jupyter notebook).
 
 ## Python libraries and functions implemented 
   * OpenCV library [cv2]: For image processing
